@@ -1,4 +1,4 @@
-# Bosch controller startup and configuration
+# Bosch Controller Startup and Configuration
 
 | **Requested by:** | **GHESA**       |
 | ----------------- | ---------       |
