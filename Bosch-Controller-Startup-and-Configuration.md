@@ -44,12 +44,7 @@ The steps to follow once IndraWorks Engineering has been started are as follows:
 
 ### Users
 
-The default users for the MLC system could be:
-
-| User          | Password      |
-| ------------- | ------------- |
-| boschrexroth  | boschrexroth  |
-| administrator | administrator |
+Check 1Password vault `TMA` for this information under the login name `Bosch Controller - Indraworks Login`.
 
 ### Configure motors with integrated drive
 
